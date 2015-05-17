@@ -1,0 +1,41 @@
+Convert this mockup into HTML using Bootstrap grid layouts, use sm- size for the columns
+
+add bootstrap js and css - use xs-12 or xm - col
+
+mockup just 3 card layout = float left or whatever 
+
+
+add in the src cdn files for bs js and css
+
+html 
+
+make one card to start 
+
+icon for add to cart
+
+shopping cart 
+
+
+====
+
+Use fake images from a google search, make sure you include them in a responsive way.
+
+Test your layout on a mobile screen, make sure the products stack vertically,
+
+each product taking up the whole horizontal space on the mobile screen.
+
+
+
+
+====
+
+Use Bootstrap gliphicons to find a good icon for the Add To Cart button
+
+
+
+===
+
+Use an HTML5 number field for the quantity
+
+lu - html 5 element to arrow up quantity 
+
